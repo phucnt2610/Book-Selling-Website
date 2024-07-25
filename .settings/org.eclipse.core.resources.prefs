@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/sql/Control/Amin/Analyst/Top10Excel.java=UTF-8
+encoding//src/main/java/com/sql/Control/Amin/Analyst/top10SanPham.java=UTF-8
+encoding//src/main/java/com/sql/Control/Amin/Analyst/top5Excel.java=UTF-8
+encoding//src/main/java/com/sql/Control/Checkout/AddOrder.java=UTF-8
+encoding//src/main/java/com/sql/Control/Checkout/Checkoutcontrol.java=UTF-8
+encoding//src/main/java/com/sql/Control/Login/ForgotPass.java=UTF-8
+encoding//src/main/java/com/sql/Control/Login/SignUpControl.java=UTF-8
+encoding//src/main/java/com/sql/Control/Test.java=UTF-8
+encoding//src/main/java/com/sql/Control/User/EditProfile.java=UTF-8
+encoding//src/main/java/com/sql/Dao/DAO.java=UTF-8
+encoding//src/main/java/com/sql/Email/ForgotEmail.java=UTF-8
+encoding//src/main/java/com/sql/Email/SendMail.java=UTF-8
+encoding//src/main/java/com/sql/Email/SendMailConfirm.java=UTF-8
+encoding//src/main/webapp/ForgotPass.jsp=UTF-8
+encoding//src/main/webapp/blog_details.jsp=UTF-8
+encoding//src/main/webapp/shop.jsp=UTF-8
